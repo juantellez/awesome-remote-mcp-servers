@@ -1436,7 +1436,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Make Anki, Quizlet, Mochi and Brainscape flashcard decks and review your vocabulary with spaced repetition.
 - [NEXUS AGI](https://nexus.eblas.link/en) `https://nexus.eblas.link/mcp`
   [![NEXUS AGI MCP connector](https://glama.ai/mcp/connectors/link.eblas.nexus/nexus-agi/badges/score.svg)](https://glama.ai/mcp/connectors/link.eblas.nexus/nexus-agi)
-  🔐 - Shared memory for Claude, ChatGPT, Cursor and any MCP agent, so they don't repeat a costly mistake: decisions, rules and past errors, with validity over time.
+  🔐 - Shared memory that keeps AI agents from repeating costly mistakes: past decisions, rules and incidents, shared by all.
 - [NoteMCP](https://notemcp.com) `https://notemcp.com/mcp`
   [![NoteMCP MCP connector](https://glama.ai/mcp/connectors/com.notemcp/notemcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.notemcp/notemcp)
   🔐 - Long-term memory from your notes: search, read and edit notes saved by text, voice or share sheet.
